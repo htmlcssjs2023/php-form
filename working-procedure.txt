@@ -8,15 +8,3 @@ Alogorithom:
 4. $_GET[] / $_POST[] global method.
 5. echo 
 
-#use html tools
-1. form tag 
-2. input tag 
-3. button 
-4. label 
-
-# use html attributes
-1. action (form)
-2. method (form)
-3. name, type, for, (input, label)
-
-#use simple css
