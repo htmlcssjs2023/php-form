@@ -1,0 +1,29 @@
+Alogorithom:
+
+Step: 01 create index.php file
+step: 02 create simple form with input field and submit button 
+step: 03 get input field data using php POST or GET method
+step: 04 create contact.php file 
+step: 05 link contact.php file as form action
+step: 06 show data in contact.php file as html formate 
+
+
+#use php tools
+1. <?php ?> and php variable
+2. if()
+3. isset() method
+4. $_GET[] / $_POST[] global method.
+5. echo 
+
+#use html tools
+1. form tag 
+2. input tag 
+3. button 
+4. label 
+
+# use html attributes
+1. action (form)
+2. method (form)
+3. name, type, for, (input, label)
+
+#use simple css
