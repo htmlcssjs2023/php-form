@@ -1,5 +1,10 @@
 Alogorithom:
-
+	Step: 01 create index.php file
+	step: 02 create simple form with input field and submit button 
+	step: 03 get input field data using php POST or GET method
+	step: 04 create contact.php file 
+	step: 05 link contact.php file as form action
+	step: 06 show data in contact.php file as html formate 
 
 #use php tools
 1. <?php ?> and php variable
